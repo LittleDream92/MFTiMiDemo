@@ -1,9 +1,0 @@
-platform :ios, '8.0'
-
-target ‘MFTiMiDemo’ do
-    pod 'Masonry'
-    pod 'MMDrawerController', '~> 0.5.7'
-    pod 'YYText'
-    pod 'SVProgressHUD'
-    pod 'Realm'
-end
